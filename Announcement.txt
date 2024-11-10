@@ -1,1 +1,1 @@
-ANNOUNCEMENT : Hi
+ANNOUNCEMENT : The website now supports a mobile layout!
