@@ -1,1 +1,1 @@
-ANNOUNCEMENT : Hi guys it me magix
+ANNOUNCEMENT : Due to some issues with THE GUY YOU SEE BELOW YOU, there was a problem with keeping the webhook in the frotend files, which means i will need to make a backend where this sensitive information is store, until then, the site will be quite locked down until i can rework it with a better type of security, sorry.
