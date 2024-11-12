@@ -1,0 +1,1 @@
+theres a issue when it comes to the delay within commiting to the gallery.json. and it propagating onto the website itself, im not sure if it has something to do with cache or whatever, just note it could take about 10 minutes or less to pop up on the site.
