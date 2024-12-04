@@ -1,1 +1,1 @@
-UPDATE : i have fixed the security issue with reports, i can now receive them securely and without people meddling with the links for it, keep a look out for bugs!
+BIG UPDATE : I have officially (somewhat) added accounts to magixfacade!, Click on "user stamp" below for more info!
